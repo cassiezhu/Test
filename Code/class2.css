@@ -1,0 +1,50 @@
+
+p {
+	color: blue;
+	font-family: 'Source Sans Pro', sans-serif;
+	font-size: 14px;
+}
+.green {
+	color: green;
+}
+#special {
+	font-family: Arial;
+}
+a{
+	color: red;
+	font-size:18px;
+
+}
+.serif {
+	font-family: 'serif';
+}
+.sans-serif {
+	font-family: 'sans-serif';
+	
+}
+
+#center {
+	margin: auto 0;
+	align-items: center;
+	background-color: red;
+
+}
+.div1{
+	width: 500px;
+	padding: 50px;
+	border: 5px black solid;
+	margin: auto 0;
+	background-color: white;
+	
+	
+}
+.div1 h1{
+	color: aqua;
+	font-family: "georgia";
+
+}
+
+.success {
+	color: black;
+	font-style: italic;
+}
